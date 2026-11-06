@@ -1,0 +1,327 @@
+text,label,type,tag,origin,has_link,max_sim_to_train
+SBI ALERT: Your account will be blocked today. Verify immediately at http://bit.ly/sbi-verify to avoid suspension.,1,scam,has_link,human,True,0.3514472114577787
+"Congratulations! You have won ₹4,999 cashback. Click now to claim reward and complete UPI verification.",1,scam,other_scam,human,False,0.4582511583773725
+"Dear customer, share your OTP immediately to stop account suspension. Failure to do so may block your banking access.",1,scam,urgent_scam,human,False,0.3955540206979238
+Your KYC is pending. Download secure banking app update here: http://short.link/update.apk,1,scam,other_scam,human,True,0.2679734325420367
+Your parcel could not be delivered. Update your address now at http://bit.ly/delivery-fix to avoid return.,1,scam,other_scam,human,True,0.3551397243762354
+Update your KYC or your account will be blocked.,1,scam,urgent_scam,human,False,0.42522304759653745
+"Work from home job: Like Youtube videos and earn 3,000 to 8,000 rupees daily. Go to this website to register.",1,scam,other_scam,human,False,0.2232201554582336
+"Hi Papa/Mummy, this is my new number. Can you send me 18,000 urgently as I need to replace my phone as the old one fell in water",1,scam,other_scam,human,False,0.24627289182876344
+Your electricity will be disconnected tonight. Please contact your electricity officer at 98xxxxxx23. Thank you,1,scam,other_scam,human,False,0.7613786305161971
+"I sent money to your UPI by mistake, please return it. I sent you 8000 rupees, please send it back immediately",1,scam,other_scam,human,False,0.2962465330869387
+"Are you free? I'm in a meeting, need you to buy Amazon gift cards for a client. Will reimburse.",1,scam,other_scam,human,False,0.22197941550712186
+"Hello, welcome to the VPI trading group. Install and trade at our trading app to get guaranteed 100% returns.",1,scam,other_scam,human,False,0.333155592546444
+"Hello, this is CBI officer Prakash, and we have found a drugs parcel in your name. You are under digital arrest and need to transfer money for verification. Send 5000 Rs immediately to this UPI ID",1,scam,extortion_scam,human,False,0.22146411587898943
+"We have found your phone number being used for illegal activity, pay a penalty of Rs 10000 to save yourself from going to jail.",1,scam,extortion_scam,human,False,0.2327157564969147
+"Mam, you son has been arrested and is in our custody. Send us the bail money or will be in jail for many years.",1,scam,extortion_scam,human,False,0.1619866422845201
+"Congratulations, you've won a lottery! You just need to pay a processing fee or GST to claim it.",1,scam,other_scam,human,False,0.4123184111715381
+"Hey, Raghav here I sent you an OTP by mistake, please share it",1,scam,other_scam,human,False,0.27585888495861205
+HDFC Alert: Your NetBanking access is temporarily locked due to 3 failed login attempts. Verify identity at http://hdfc-auth.net. We never ask for PIN.,1,scam,imitates_legit,llm,True,0.33049550276531786
+"Dear ICICI Customer, your PAN card is not linked to your Aadhar. Your account will freeze in 24 hours. Update here: https://kyc-icici.info",1,scam,imitates_legit,llm,True,0.2597979878239373
+"SBI YONO: Unusual activity detected on your debit card ending in 4092. If this wasn't you, cancel the transaction at http://sbi-secure.com",1,scam,imitates_legit,llm,True,0.28311791155666616
+Axis Bank Notice: Your KYC expires today. Reactivate your banking services by filling this form: http://axis-kyc-update.org. Do not share OTP.,1,scam,imitates_legit,llm,True,0.1997616500157106
+PNB Alert: Your account is scheduled for suspension. Please complete your e-KYC verification immediately via http://pnb-verify.co.in,1,scam,imitates_legit,llm,True,0.29646500511200413
+"Dear User, an unauthorized login attempt was blocked on your Kotak 811 account. Secure your account now: http://kotak-security.com",1,scam,imitates_legit,llm,True,0.3735505668499824
+"Alert from Bank of Baroda: Your ATM card has been blocked. To generate a new PIN and unblock, visit http://bob-atm.net",1,scam,imitates_legit,llm,True,0.2214569792145
+"Dear Customer, ₹9,500 has been debited from your account. If you did not authorize this, raise a dispute at http://bank-dispute.com. Never share OTP.",1,scam,imitates_legit,llm,True,0.3556851209033747
+Your IDFC FIRST account balance is on hold due to pending GST details. Update immediately at http://idfc-gst.in to resume services.,1,scam,imitates_legit,llm,True,0.25652050559933604
+Alert: We detected a suspicious login to your YONO app from a new device in Kolkata. Secure your account: http://yono-sbi-secure.com,1,scam,imitates_legit,llm,True,0.24696618537170734
+HDFC Bank: You have 8500 reward points expiring at midnight. Redeem them for cash directly to your account at http://hdfc-rewards.co,1,scam,imitates_legit,llm,True,0.3071567057314662
+"Dear User, your UPI ID has been deactivated due to no recent activity. Reactivate it now to receive payments: http://upi-reactivate.in",1,scam,imitates_legit,llm,True,0.3712049211825119
+ICICI Bank Alert: Suspicious overseas transaction of $450 flagged on your credit card. Block card instantly at http://icici-block.com,1,scam,imitates_legit,llm,True,0.25784913198484155
+Notice: Your PAN is marked invalid in our banking records. Please upload a new copy at http://pan-verify-portal.in to avoid account closure.,1,scam,imitates_legit,llm,True,0.20102740484742673
+SBI Alert: Your FASTag wallet is blocked due to incomplete KYC. Recharge and update KYC at http://sbi-fastag-kyc.com,1,scam,imitates_legit,llm,True,0.30893202522888885
+"Dear Customer, a request to change your registered mobile number is processing. If you didn't request this, click http://cancel-request.net",1,scam,imitates_legit,llm,True,0.3506300220526307
+Your online banking password has expired. You must reset it immediately to continue using services: http://secure-reset.in. We never call for OTP.,1,scam,imitates_legit,llm,True,0.23384747467384098
+Y0UR ac0unt w1ll be bl0cked! U.P.D.A.T.E n0w at http://k-y-c.in,1,scam,obfuscated,llm,True,0.10490021289313603
+A_a_p_k_a bank a/c b.l.o.c.k ho jayega. Jldi click kare http://bank.in,1,scam,obfuscated,llm,True,0.14558986228259813
+"D e a r  U s e r, y o u r  l o a n  i s  a p p r o v e d. Rs 5,00,000. http://loan.co",1,scam,obfuscated,llm,True,0.11856859203361073
+W0rk fr0m h0me! 3arn Rs 5000/d@y. Msg us 0n wh@tsapp,1,scam,obfuscated,llm,False,0.08238809725439111
+P_a_y_t_m C_A_S_H_B_A_C_K Rs 5000. C_l_i_c_k l_i_n_k http://paytm-cash.in,1,scam,obfuscated,llm,True,0.09572529753347227
+Urgent: y0ur A/C i$ temp0rarily l0cked. Verify n0w. http://secure.com,1,scam,obfuscated,llm,True,0.15607633701225462
+L.o.a.n. A.p.p.r.o.v.e.d. R.s. 1.0.0.0.0.0. C.l.i.c.k. h.e.r.e,1,scam,obfuscated,llm,False,0.045933919651243806
+A T M C A R D B L O C K E D. C A L L M A N A G E R. 9876543210,1,scam,obfuscated,llm,False,0.10416991163546215
+W1n fr33 !Ph0n3 15 n0w! C1ick th3 1ink http://iphone.in,1,scam,obfuscated,llm,True,0.11784040956862125
+B_a_n_k_A_l_e_r_t: Y_o_u_r_A_c_c_o_u_n_t_C_l_o_s_e_d. U_p_d_a_t_e http://update.in,1,scam,obfuscated,llm,True,0.0541834769209492
+F_r_e_e R_e_c_h_a_r_g_e of Rs 599. C_l_i_c_k h_e_r_e http://recharge.com,1,scam,obfuscated,llm,True,0.0801018580889588
+Y 0 U R W H A T S A P P I S E X P I R I N G. U P D A T E N 0 W,1,scam,obfuscated,llm,False,0.15296522419695494
+K_Y_C_P_E_N_D_I_N_G. A_C_C_O_U_N_T_F_R_E_E_Z_E. http://kyc.in,1,scam,obfuscated,llm,True,0.03721229034715618
+C_0_N_G_R_A_T_S! Y0u w0n a l0ttery! Claim http://lotto.net,1,scam,obfuscated,llm,True,0.09139750534221504
+Y0ur p@ckage i$ stuck @t cust0ms. P@y fe3 here: http://customs.in,1,scam,obfuscated,llm,True,0.12466562705149435
+R-E-W-A-R-D P-O-I-N-T-S E-X-P-I-R-I-N-G. C-L-I-C-K http://reward.in,1,scam,obfuscated,llm,True,0.046586314059815406
+"Bhai jldi 2000 gpay kar, hospital me hu accident ho gya hai, kl pakka deta hu wapas",1,scam,shorthand,llm,False,0.2736918530302987
+Kijiye apna KYC update turant nahi toh a/c block ho jayega. Niche diye link pe click kijiyega.,1,scam,shorthand,llm,False,0.43920440548751544
+"Sir paise send kardo 5000, emergency h bhut baad me batata hu",1,scam,shorthand,llm,False,0.23457131658145824
+Kya aap free ho? Plz amazon gift card buy krlo mere client ke liye meeting me hu.,1,scam,shorthand,llm,False,0.19495216700733692
+Aapka bijli connection kat jayega aj raat 9:30 baje. Turant call kijiye officer ko.,1,scam,shorthand,llm,False,0.32058687148644516
+"Pls help, mera beta police station me h mar peet me fasa h, 15000 send kijiye bail k liye",1,scam,shorthand,llm,False,0.19815136668328637
+"Mistake se 1200 apke upi pe gaya, maine check nahi kiya, wapas kardo pls jldi",1,scam,shorthand,llm,False,0.17850589511184814
+"Apka loan pass ho gya h 2 lakh ka, file charge 3500 pay kare tabhi account me ayega.",1,scam,shorthand,llm,False,0.20199984077615096
+"Bhaiya naya number h, purana paani me gir gaya. 18000 bhej do urgently naya lena h.",1,scam,shorthand,llm,False,0.14730317182259173
+"Aadhar pan link nhi hua, a/c freeze. Link open kro: http://pan.com",1,scam,shorthand,llm,True,0.1555000006324006
+"Jldi se OTP batao, transaction cancel karni h bank ki taraf se call h",1,scam,shorthand,llm,False,0.19325849395331993
+"Dear, aapki policy lapse ho rahi h, turant premium pay kijiye varna sab doob jayega",1,scam,shorthand,llm,False,0.20864868545926546
+Bank a/c block. Update kyc kijiyega jldi. Pura paisa fass jayega.,1,scam,shorthand,llm,False,0.33950511619231655
+"Sir me Jio customer care se bol rha hu, 5G activate krne k liye OTP bataiye",1,scam,shorthand,llm,False,0.25924282797020054
+"Mummy me Rahul, mera purana no band ho gya. ye naya h, dost ko 5k gpay krna h krdo plzz",1,scam,shorthand,llm,False,0.2057590641181239
+"Jldi link pe click krke app download kr le, free 500 Paytm cash mil rha h sabko",1,scam,shorthand,llm,False,0.2460779607805437
+Apka challan kata hai 1000 ka. Aaj raat tak pay nhi kia to court jana padega. Link: http://challan.co,1,scam,shorthand,llm,True,0.259622744640316
+Aapke naam ka courier return ho gaya. Address theek karne ke liye 5 Rs pay kare http://post.in,1,scam,shorthand,llm,True,0.24509765269253217
+"Bhai plz ek chhota sa favor chahiye, mere Gpay se limit cross ho gai h, is no. pe 500 bhej de.",1,scam,shorthand,llm,False,0.11300981200055317
+SBI yono kyc link: http://sbi-update.in jldi kro varna atm card block hoga aaj 2 baje.,1,scam,shorthand,llm,True,0.26270848622924897
+Hello me army officer bol rha hu. OLX se apka sofa kharidna h. OTP batao scan krke,1,scam,shorthand,llm,False,0.15328874991593747
+"Sir apka credit card me reward points aaye h 5000, cash me badalne k liye link dabaye",1,scam,shorthand,llm,False,0.21985471404559037
+Tu free hai kya? Ek urgent transaction karni thi mera UPI nhi chal raha.,1,scam,shorthand,llm,False,0.15311668476848603
+Aapka sim band hone wala h docmnts verify nhi h. Customer care ko abhi call kare,1,scam,shorthand,llm,False,0.3210104300227514
+FINAL WARNING: Your WhatsApp account will be permanently deleted in 1 hour due to violations. Click http://wa-secure.com to verify.,1,scam,urgent_scam,llm,True,0.2105113323279669
+"Your flight tickets have been cancelled. To claim an immediate refund of Rs 12000, please visit http://refund-desk.in",1,scam,urgent_scam,llm,True,0.2348378098424109
+"Digital Arrest Warrant Issued. You are implicated in a money laundering case. Pay Rs 50,000 to CBI UPI ID immediately to avoid arrest.",1,scam,extortion_scam,llm,False,0.2262592007586517
+"Income Tax Notice: Discrepancy found in your ITR filing. You owe Rs 8,500. Pay by 5 PM or face legal action: http://incometax-penalty.in",1,scam,urgent_scam,llm,True,0.20783671663237113
+Your Netflix subscription payment failed. Your access will be revoked in 2 hours. Update billing here: http://netflix-billing-update.com,1,scam,urgent_scam,llm,True,0.485834176603268
+"Alert! A loan of Rs 5 Lakhs has been sanctioned in your name. If you didn't apply, cancel it immediately at http://loan-cancel.org",1,scam,urgent_scam,llm,True,0.17798769835161043
+Your Apple ID is locked due to suspicious activity. Unlock it immediately to prevent data loss: http://apple-id-recover.co,1,scam,urgent_scam,llm,True,0.45137141619170246
+TRAI Alert: All your mobile numbers registered on this Aadhar will be disconnected by evening due to spam reports. Call +918765432109.,1,scam,urgent_scam,llm,False,0.19580714988252065
+"Important Notice: The Rs 2,000 notes in your bank account will be frozen by RBI. Convert them to digital currency now: http://rbi-digital.com",1,scam,urgent_scam,llm,True,0.1864270068692842
+Your life insurance policy #9087 is cancelled due to non-payment. Reactivate within 1 hr to save Rs 2.5L cover: http://policy-renew.in,1,scam,urgent_scam,llm,True,0.2231277690289555
+"Urgent: A medical emergency requires Rs 20,000 for your cousin's surgery. Send money to this hospital UPI immediately.",1,scam,other_scam,llm,False,0.22970536876967854
+Your DTH connection will stop working in 15 mins. Recharge immediately using this discounted link: http://dth-fast.com,1,scam,urgent_scam,llm,True,0.25193589345473744
+"Govt Subsidy of Rs 3,500 has been credited to your Aadhaar. Link your bank account to withdraw: http://aadhaar-subsidy.in",1,scam,urgent_scam,llm,True,0.23988521764880677
+Flash Alert: Win a guaranteed Mahindra Thar. Only 3 lucky winners today. Click http://thar-contest.com and pay Rs 50 entry fee.,1,scam,other_scam,llm,True,0.15110336199250432
+"Your child has met with an accident and is admitted to City Hospital. Send Rs 15,000 for emergency admission fee via Gpay.",1,scam,extortion_scam,llm,False,0.21933858098516887
+Alert: Your EPF balance is locked due to incorrect UAN mapping. Verify identity here to unlock funds: http://epf-kyc-update.com,1,scam,urgent_scam,llm,True,0.18325020985682117
+SALE SALE SALE! Get flat 50% off on all winter wear at Myntra. Offer ends today at midnight.,1,promo,promo_eng,llm,False,0.24085244095005687
+Pre-approved credit card with zero lifetime fees for you! Apply now at HDFC website.,1,promo,promo_eng,llm,False,0.3322825529446981
+Buy 1 Get 1 Free on all medium pizzas at Domino's today! Use code BOGO50 on the app.,1,promo,promo_eng,llm,False,0.30644024903860445
+Invest in plots near the upcoming Jewar airport. Guaranteed 200% appreciation in 3 years. Call us now.,1,promo,promo_eng,llm,False,0.24588390136708957
+Your Swiggy cart is waiting! We miss you. Use code MISSYOU for 20% off your next order.,1,promo,promo_eng,llm,False,0.22313935366350449
+"Flash Sale on Amazon! IPhone 14 at Rs 49,999. Limited stock available. Buy now.",1,promo,promo_eng,llm,False,0.2420779351766692
+Get a free demat account with Zerodha. Start trading today with 0 brokerage on equity delivery.,1,promo,promo_eng,llm,False,0.3925119613405675
+Join Gold Gym today and get 3 months extra on an annual membership! Walk in for a free trial.,1,promo,promo_eng,llm,False,0.2591431139984137
+"Need cash? Get an instant personal loan up to Rs 5,00,000 with 100% digital process. Apply at Bajaj Finserv.",1,promo,promo_eng,llm,False,0.2525385534631133
+Exclusive preview! The new residential project by Godrej Properties opens tomorrow. RSVP for VIP access.,1,promo,promo_eng,llm,False,0.2189703016779186
+Hungry? Zomato is offering flat Rs 100 off on your favourite biryani. Order now before the offer expires.,1,promo,promo_eng,llm,False,0.3840271727526709
+Upgrade your wardrobe with Allen Solly's end-of-season sale. Flat 40% off in-store and online.,1,promo,promo_eng,llm,False,0.21301192034526206
+Drive home a new Hyundai Creta this Diwali! Zero down payment and lowest EMI options available.,1,promo,promo_eng,llm,False,0.22619340936424404
+Subscribe to Times of India digital edition at just Rs 99/year. Stay updated with the latest news.,1,promo,promo_eng,llm,False,0.2592189746340366
+Don't miss out! Learn Data Science from IIT faculty. Weekend batches starting soon. Register here.,1,promo,promo_eng,llm,False,0.1970329681084023
+Your lenses need an upgrade. Get 2 pairs of eyeglasses for Rs 999 at Lenskart. Valid till Sunday.,1,promo,promo_eng,llm,False,0.5054378978171585
+Unlock premium features on Tinder! Get 50% off on your first month of Gold subscription.,1,promo,promo_eng,llm,False,0.2584087805020112
+Book your flights on MakeMyTrip and get up to Rs 2000 cashback on domestic travel. Use code FLYHIGH.,1,promo,promo_eng,llm,False,0.4349334077143537
+Special discount on home cleaning services! Book Urban Company today and get 30% off.,1,promo,promo_eng,llm,False,0.32630062850680275
+Big Basket offers you free delivery on your first 3 orders of fresh groceries. Start shopping now.,1,promo,promo_eng,llm,False,0.29222112071762896
+Protect your family with term insurance. 1 Crore cover starting at just Rs 499/month. Compare on PolicyBazaar.,1,promo,promo_eng,llm,False,0.2600239918209278
+Get 20% cashback when you pay your electricity bill using Amazon Pay balance. Max cashback Rs 50.,1,promo,promo_eng,llm,False,0.42626364344772155
+Your Airtel prepaid validity is expiring soon. Recharge with Rs 299 for unlimited calls and 1.5GB/day.,1,promo,promo_eng,llm,False,0.36705046489246307
+"Clearance Sale at Croma! Up to 60% off on laptops, TVs, and home appliances. Visit your nearest store.",1,promo,promo_eng,llm,False,0.29144587730870514
+Experience the magic of cinema! Book 2 tickets on BookMyShow and get 1 free using your ICICI card.,1,promo,promo_eng,llm,False,0.2851920694339693
+"Bhaiya, Diwali dhamaka sale! Abhi order karein aur paayein 40% discount sabhi electronics par.",1,promo,promo_hin,llm,False,0.17694121248793526
+Kya aapko personal loan chahiye? Bina kisi document ke 5 lakh tak ka loan payein sirf 2 minute me.,1,promo,promo_hin,llm,False,0.19706320182990827
+Aaj hi Rummy Circle download karein aur ₹2000 welcome bonus payein. Khele aur jeetein asli cash.,1,promo,promo_hin,llm,False,0.1904058696353761
+Aapke liye khaas offer! Myntra par kapde kharidein aur paayein free delivery pehle order par.,1,promo,promo_hin,llm,False,0.19179913930969472
+Jio me 666 ka recharge karein aur paayein 2GB extra data bilkul free aaj hi.,1,promo,promo_hin,llm,False,0.3367434424385615
+Ghar baithe English bolna seekhein. 30 din ka course sirf Rs 499 me. Abhi register karein.,1,promo,promo_hin,llm,False,0.21257201258568725
+Sone ke gehne par banwai bilkul free! Aaj hi apne nazdeeki Tanishq showroom visit karein.,1,promo,promo_hin,llm,False,0.16394927651174399
+Kalyan Jewellers laaya hai Dhanteras special offer. Har kharid par paayein sone ke sikke free.,1,promo,promo_hin,llm,False,0.3368067119830887
+Sirf ₹99 me paayein unlimited pizza! Aaj hi Pizza Hut aayein aur is offer ka fayda uthayein.,1,promo,promo_hin,llm,False,0.30460773830999044
+Ghar bethe paise kamayein! Humari app download karein aur daily ₹500 kamayein.,1,promo,promo_hin,llm,False,0.15146972445483525
+Aapke area me naya supermart khul gaya hai. Pehle 100 customers ke liye 1 kg cheeni bilkul free.,1,promo,promo_hin,llm,False,0.21462936780558833
+Purani car bechna chahte hain? Cars24 par aayen aur paayen sabse behtareen price aur turant payment.,1,promo,promo_hin,llm,False,0.173524221919679
+Bina byaj ke EMI par AC kharidein. Bajaj EMI card ka istemal karein aur garmi ko dur bhagayein.,1,promo,promo_hin,llm,False,0.18269112649031893
+Gadi ka insurance khatam ho raha hai? Policybazaar par renew karein aur bachayen hazaron rupaye.,1,promo,promo_hin,llm,False,0.1690081318903673
+Aapka CIBIL score accha hai. Aapko HDFC bank ki taraf se 2 lakh ka pre-approved loan mil raha hai.,1,promo,promo_hin,llm,False,0.2858795658103807
+Vastu shastra se apni kismat badlein. Pundit ji se free consultation lene ke liye call karein.,1,promo,promo_hin,llm,False,0.15681433233391484
+Apne baccho ke sunhere bhavishya ke liye aaj hi LIC ki policy lein. Jyada jankari ke liye sampark kare.,1,promo,promo_hin,llm,False,0.16215390091662826
+Ganjepan se pareshan? Humara 100% natural hair oil try karein. 30 din me baal wapas aayenge.,1,promo,promo_hin,llm,False,0.11113970098070222
+Kisan bhaiyo ke liye khushkhabri! Naye tractor par 10% ki chhoot. Aaj hi showroom aayen.,1,promo,promo_hin,llm,False,0.1121846438368895
+Maha bachat offer! Vishal Mega Mart me sabhi kapdo par 1 pe 1 free. Jaldi aayen.,1,promo,promo_hin,llm,False,0.2218090634624934
+Sirf Rs 9 me dher saare gaane sunein! Gaana app ka premium subscription abhi lijiye.,1,promo,promo_hin,llm,False,0.18496741569718567
+Share market me invest karna seekhein. 2 din ki free online workshop join karein.,1,promo,promo_hin,llm,False,0.17512996728922758
+Aapka pasandida show aa gaya hai wapas! Aaj hi Hotstar ka subscription lein.,1,promo,promo_hin,llm,False,0.2633376326015879
+Zomato laaya hai 'Maha Food Utsav'. Har order par 30% discount aur free delivery.,1,promo,promo_hin,llm,False,0.168187435068326
+Swiggy Instamart se grocerries mangwayein sirf 10 minute me. Pehle order par 50% chhoot.,1,promo,promo_hin,llm,False,0.136359347460733
+"Dear Customer, your e-statement for SBI CC ending 3912 is available. View here: https://onlinesbi.sbi",0,legit,has_link,llm,True,0.1824637795192476
+Your Flipkart order FPK491 is out for delivery. Our executive will reach by 2 PM. Track here: https://flipkart.com/track,0,legit,has_link,llm,True,0.2781677171419707
+Income Tax Dept: Your ITR for AY 23-24 has been processed. Check intimation on https://incometax.gov.in,0,legit,has_link,llm,True,0.23783240720682794
+Aapka PF balance update ho gaya hai. Aap apne Umang app ya https://epfindia.gov.in par check kar sakte hain.,0,legit,has_link,llm,True,0.17250252234206612
+Amazon: Your package containing 'Logitech Mouse' will arrive today by 9 PM. Track at https://amazon.in/track,0,legit,has_link,llm,True,0.19433242809625376
+"Dear Taxpayer, advance tax installment is due on 15-Mar. Pay online at https://incometaxindiaefiling.gov.in",0,legit,has_link,llm,True,0.20025444325533903
+Your monthly phone bill of Rs. 899 has been generated. View and pay at https://airtel.in/bill,0,legit,has_link,llm,True,0.21959942785281317
+HDFC Bank: Download your interest certificate for the current financial year from NetBanking at https://hdfcbank.com,0,legit,has_link,llm,True,0.271516885313532
+IRCTC: E-ticket booked for PNR 8234567891. Print or download ticket here: https://irctc.co.in,0,legit,has_link,llm,True,0.27532137356806635
+UIDAI: Your Aadhaar update request has been approved. Download your updated Aadhaar from https://myaadhaar.uidai.gov.in,0,legit,has_link,llm,True,0.29844768662576543
+NPS: Your contribution of Rs 5000 has been invested. Check your PRAN balance at https://cra-nsdl.com,0,legit,has_link,llm,True,0.1736573555545888
+"Dear Customer, view the latest offers on your ICICI Bank Credit Card securely here: https://icicibank.com/offers",0,legit,has_link,llm,True,0.33129168581934926
+Your passport application file No. MA123456 has been dispatched via Speed Post. Track at https://indiapost.gov.in,0,legit,has_link,llm,True,0.203396333668896
+Swiggy: Your food from 'Meghana Foods' is on the way. Track live location: https://swiggy.com/track,0,legit,has_link,llm,True,0.17222397676791432
+Zerodha: Contract note for trades on 14-Nov is attached to your registered email. Login to Console: https://console.zerodha.com,0,legit,has_link,llm,True,0.12407578698109697
+"Dear parent, the report card for your ward is published. Access it on the school portal: https://dps-portal.edu.in",0,legit,has_link,llm,True,0.17508755814956903
+Your vehicle DL transfer RC RC123456 status is approved. Download digital copy from Parivahan: https://parivahan.gov.in,0,legit,has_link,llm,True,0.3742903875590807
+Covid-19 Vaccination certificate is available. You can download it securely from https://cowin.gov.in,0,legit,has_link,llm,True,0.5752348724912301
+Tata Sky: Your DTH connection is active. Manage your channels and packs at https://tataplay.com,0,legit,has_link,llm,True,0.21124835719507976
+"Dear User, your Zoom meeting recording is now available to watch. Access it here: https://zoom.us/rec",0,legit,has_link,llm,True,0.13922169506977303
+"Urgent: Your electricity bill of Rs 3,450 for Consumer ID 109283 is due today. Pay now to avoid late fees.",0,legit,alarming,llm,False,0.35379570873323024
+OTP for your HDFC netbanking login is 891234. Do not share this with anyone. Bank officials never ask for OTP.,0,legit,alarming,llm,False,0.32285493367181106
+Security Alert: Your Google account was logged in from a new device (Windows) in Mumbai.,0,legit,alarming,llm,False,0.300254932997079
+"Dear User, your daily 2GB data pack is 90% exhausted. Recharge to continue using high-speed internet.",0,legit,alarming,llm,False,0.26662820096900186
+Your FASTag balance is very low (Rs 50). Recharge immediately to avoid blacklisting at toll plazas.,0,legit,alarming,llm,False,0.18488790546498485
+Alert: You have entered incorrect password 3 times for Kotak mobile banking. 2 attempts remaining.,0,legit,alarming,llm,False,0.23428825667564843
+"Credit Card Payment Reminder: Rs 15,200 is due on 12-Oct for SBI Card XXXX-5543. Please ignore if paid.",0,legit,alarming,llm,False,0.1796080649943986
+Notice: Your rental agreement is expiring in 15 days. Please contact your landlord for renewal.,0,legit,alarming,llm,False,0.20359308496626058
+Your Amazon Web Services (AWS) usage has exceeded the 80% threshold for the current billing cycle.,0,legit,alarming,llm,False,0.1992528907712254
+Warning: Unusually high data usage detected on your mobile network in the last 2 hours.,0,legit,alarming,llm,False,0.23777351687788575
+Low Battery Alert: Your home security camera 'Front Door' is at 5% battery. Please charge it.,0,legit,alarming,llm,False,0.20884543853638543
+"Health Insurance Premium of Rs 12,000 for Policy 987654 is due in 3 days. Ensure sufficient balance for auto-debit.",0,legit,alarming,llm,False,0.325889203156774
+Alert: A login attempt was made on your Instagram from an unrecognized browser in Delhi.,0,legit,alarming,llm,False,0.23567871816469715
+Reminder: Tomorrow is the last date to file your GST returns for the month without penalty.,0,legit,alarming,llm,False,0.31756144573140965
+"Dear Customer, your cheque #098765 has been returned due to insufficient funds. Please check your account.",0,legit,alarming,llm,False,0.30906602459756594
+"Your ICICI bank minimum balance is below Rs 10,000. Maintain balance to avoid penalty charges.",0,legit,alarming,llm,False,0.2558925955926459
+"Alert: OTP for changing your UPI PIN is 556677. If you didn't request this, contact bank immediately.",0,legit,alarming,llm,False,0.23741200157376813
+Your flight 6E-234 to Bangalore has been delayed by 2 hours. New departure time is 18:30.,0,legit,alarming,llm,False,0.20988461916518875
+Your EMI of Rs 8500 will be deducted tomorrow. Please maintain sufficient balance in your A/C.,0,legit,alarming,llm,False,0.2513929158102811
+Traffic Alert: You have an unpaid traffic challan of Rs 500 for overspeeding. Pay soon to avoid court summons.,0,legit,alarming,llm,False,0.28487609255440555
+Recharge of Rs 299 on Jio number 9898XXXX84 is successful. Valid for 28 days with 1.5GB/day.,0,legit,transactional,llm,False,0.2961950356523368
+"Your PNR 2345678912 for Rajdhani Exp (12951) is Charted. Coach B5, Seat 45, 46. Happy Journey.",0,legit,transactional,llm,False,0.18177954069785865
+Appointment confirmed with Dr. Sharma on 15 Oct at 10:00 AM. Please reach the clinic 10 mins early.,0,legit,transactional,llm,False,0.22915545233390486
+"Rs 10,000 has been debited from a/c XXXXX1234 towards ATM cash withdrawal at MG Road on 12-Sep.",0,legit,transactional,llm,False,0.2074191784119228
+Your Swiggy order #908172 from 'Burger King' is confirmed and being prepared by the restaurant.,0,legit,transactional,llm,False,0.2654349518032755
+"Credited: Rs 55,000 to your salary A/C XXXX9988 on 01-Nov by INFOSYS LTD. Ref No: NEFT-INF-1122.",0,legit,transactional,llm,False,0.15228647039814455
+"Dear Customer, your payment of Rs 1,450 for Broadband is successful. Txn ID: BB887766.",0,legit,transactional,llm,False,0.24732704866917893
+"Thank you for shopping at Shoppers Stop. Your bill amount is Rs 4,500. Points earned: 120.",0,legit,transactional,llm,False,0.4450964512198705
+Uber receipt: Your ride with driver Ramesh cost Rs 345. Thank you for riding with us.,0,legit,transactional,llm,False,0.2922379935020452
+Zomato: Order delivered successfully! Hope you enjoy your meal. Please rate your delivery partner.,0,legit,transactional,llm,False,0.35209457371098024
+Payment of Rs 120 to 'Shree Ganesh Kirana' via PhonePe is successful. UTR: 3291083948.,0,legit,transactional,llm,False,0.19483875335084613
+Your gas cylinder booking is confirmed. Ref No: 123456. Expected delivery in 2-3 days.,0,legit,transactional,llm,False,0.20989195869193564
+"Dear User, Rs 500 has been added to your Paytm Wallet from your linked HDFC bank account.",0,legit,transactional,llm,False,0.30352393786336845
+"Movie tickets booked! 2 seats for 'Jawan' at INOX on 18 Sep, 9:00 PM. Booking ID: WXYZ12.",0,legit,transactional,llm,False,0.222552925699822
+"Dear Passenger, boarding for flight AI-101 has commenced at Gate 4. Please proceed.",0,legit,transactional,llm,False,0.35208298419427425
+"Your Gold loan interest of Rs 3,200 has been successfully paid. Next due date is 10-Dec.",0,legit,transactional,llm,False,0.23113756983699502
+"Txn Alert: Rs 890 spent on SBI Card ending 4433 at STARBUCKS on 05-Oct. Avail Bal: Rs 40,000.",0,legit,transactional,llm,False,0.26758678668522623
+Blinkit: Your order of 15 items is packed and out for delivery in 8 minutes.,0,legit,transactional,llm,False,0.23785000839450088
+"Dear Subscriber, auto-pay for Netflix Premium (Rs 649) was successful on your credit card.",0,legit,transactional,llm,False,0.31267695040279886
+Payment reminder: You paid Rs 2000 for 'Monthly Maintenance' via MyGate app.,0,legit,transactional,llm,False,0.20524823898812936
+"Bhai, maine bank me paise daal diye hain, ek baar app open karke check kar lena.",0,legit,money_chat,llm,False,0.21382871965127445
+Can you send me the UPI pin for the shared account? I forgot it completely.,0,legit,money_chat,llm,False,0.20845450445059296
+"Mummy, loan ka installment pay kar diya maine Gpay se. Tension mat lo.",0,legit,money_chat,llm,False,0.1744188237684211
+I transferred Rs 5000 to your GPay. Let me know when you receive it.,0,legit,money_chat,llm,False,0.43096219579541495
+"Yaar, kal tak 1500 de sakta hai kya? Salary aate hi wapas kar dunga pakka.",0,legit,money_chat,llm,False,0.17315128805537253
+"Hey, I have paid the electricity bill for this month. You guys can split and send me your shares.",0,legit,money_chat,llm,False,0.3812112946526499
+Did you get the salary credited yet? Mine hasn't come through.,0,legit,money_chat,llm,False,0.2295529887899119
+"Rahul, movie tickets book kar di hain, tu apne hisse ke 400 mujhe paytm kar de.",0,legit,money_chat,llm,False,0.1934740716099546
+"Papa, I need to pay my college fees tomorrow. Can you transfer 25k to my SBI account?",0,legit,money_chat,llm,False,0.28588609098601103
+"Maine pichle mahine ka rent landlord ko de diya hai, receipt whatsapp kardi.",0,legit,money_chat,llm,False,0.14917102187868556
+"Bro, mera UPI chal nahi raha hai server down hai, tu cab wale ko cash de de kya?",0,legit,money_chat,llm,False,0.1666137703585031
+"I'll pay for the dinner right now, you guys can reimburse me later.",0,legit,money_chat,llm,False,0.23885218753342677
+"Please check your account, the refund from Amazon just came in.",0,legit,money_chat,llm,False,0.28620333893535277
+"Hey! I sent 200 by mistake to your number instead of my friend. Keep it, no worries.",0,legit,money_chat,llm,False,0.26063035048538347
+Are you sure the account number is correct? IFSC code galat lag raha hai mujhe.,0,legit,money_chat,llm,False,0.2300317250051131
+"Rohan, I returned the 500 bucks I owed you from last week. Thanks for the help.",0,legit,money_chat,llm,False,0.23102011715045817
+"Mujhe thode cash ki zarurat hai, ATM se nikal ke la sakta hai kya aate waqt?",0,legit,money_chat,llm,False,0.14409614156291503
+"We need to buy the wedding gift, let's pool in 1000 rupees each.",0,legit,money_chat,llm,False,0.2194022896718933
+"I just checked my statement, there is a double charge from that restaurant. I'll dispute it.",0,legit,money_chat,llm,False,0.30533278018358073
+"Salary aagai! Let's go out for drinks tonight, drinks on me.",0,legit,money_chat,llm,False,0.34212253061636533
+"Bank of Baroda never asks for OTP, CVV or PIN. Beware of fraudulent calls or links.",0,legit,scam_warning,llm,False,0.23970088042426296
+Alert: Do not click on unknown links offering free KYC updates. Stay safe online.,0,legit,scam_warning,llm,False,0.2327347537519095
+Police Advisory: Digital Arrest is a scam. CBI or Police never ask for money online via UPI.,0,legit,scam_warning,llm,False,0.24268759441060708
+Never share your UPI PIN to receive money. PIN is only used for sending money.,0,legit,scam_warning,llm,False,0.39966027115151803
+Beware of fake job offers on WhatsApp or Telegram asking for registration fees. Verify before applying.,0,legit,scam_warning,llm,False,0.21142031933659308
+Cybercrime Alert: Do not download any remote desktop apps like AnyDesk or TeamViewer on stranger's request.,0,legit,scam_warning,llm,False,0.14431175801211102
+Always check the website URL before entering your net banking credentials to avoid phishing.,0,legit,scam_warning,llm,False,0.2645689476247943
+RBI says: Report unauthorized electronic transactions to your bank immediately to limit liability.,0,legit,scam_warning,llm,False,0.2832410057941648
+Don't fall for lottery or prize scams. Nobody gives money for free. Be vigilant.,0,legit,scam_warning,llm,False,0.21269663771393305
+HDFC Bank Advisory: We will never send SMS saying your account will be blocked today.,0,legit,scam_warning,llm,False,0.37041592590803435
+Are you coming to the office today? We have a meeting at 11.,0,legit,everyday_chat,llm,False,0.5550025792955429
+Please send the presentation slides by EOD.,0,legit,everyday_chat,llm,False,0.3652252027314079
+"Hey, what time is the party starting tonight?",0,legit,everyday_chat,llm,False,0.35922667074057174
+Can you call me when you are free? Need to discuss the project.,0,legit,everyday_chat,llm,False,0.40394301539167726
+Happy Birthday! Hope you have a wonderful year ahead.,0,legit,everyday_chat,llm,False,0.46946247462549956
+Don't forget to pick up groceries on your way back home.,0,legit,everyday_chat,llm,False,0.3002272568110577
+"The weather is so nice today, let's go for a walk.",0,legit,everyday_chat,llm,False,0.28068837987377576
+Did you watch the match last night? It was crazy!,0,legit,everyday_chat,llm,False,0.37584739299804204
+"I am stuck in traffic, will be 15 mins late.",0,legit,everyday_chat,llm,False,0.2955053514263557
+Please review the document I sent over email.,0,legit,everyday_chat,llm,False,0.31312320289016393
+"Kem cho bhai, mara phone ma kharabi chhe. Naya number thi message karu chu, urgently 5000 paytm kar de.",1,scam,hinglish_scam,llm,False,0.1777982480883405
+"Oye praa, mai fass gaya haan police thane vich. 10000 rupaye bhej jaldi, baad ch dasda haan ki hoya.",1,scam,hinglish_scam,llm,False,0.20562612778006936
+Sir apka PNB bank account temporary hold pe hai. Chalu krne k liye apna KYC form bharein http://pnb-kyc.in pe.,1,scam,hinglish_scam,llm,True,0.16515666989537492
+Mubarak ho! Aapka number 25 lakh ki lottery jeeta hai KBC me. GST pay krne k liye call karein.,1,scam,hinglish_scam,llm,False,0.3181517526704945
+"Bhaiya ek choti si help chahiye, mera beta hospital me admit hai icu me, bs 2000 bhej do.",1,scam,hinglish_scam,llm,False,0.21709817212497254
+Taro bank account block thai gayo chhe. Aaje j KYC update kar http://kyc-update-guj.com,1,scam,hinglish_scam,llm,True,0.2641212374498827
+"Veere, apna aadhar card bank de naal link nahi hai. Ethe click kar te update kar le: http://hdfc-link.net",1,scam,hinglish_scam,llm,True,0.3272370719942814
+"Aapka 5,00,000 ka personal loan manzoor ho gaya hai. Processing fee 2500 UPI karein.",1,scam,hinglish_scam,llm,False,0.23845133466603755
+"Namaskar, mai Mumbai police cyber cell se baat kar raha hu. Aapka aadhar misuse hua hai.",1,scam,hinglish_scam,llm,False,0.35865165464118715
+"Mummy, mera purana number whatsapp band ho gaya. Ye naya save krlo aur 3k transfer krdo plz.",1,scam,hinglish_scam,llm,False,0.15011959411239056
+"Bhaibandh, gpay par 500 nakh ne, hu taine kaale aapi dais pakka.",1,scam,hinglish_scam,llm,False,0.059949102384892414
+"Satsriakal sir, twada HDFC credit card limit vadan da offer hai. OTP dasso verify karan layi.",1,scam,hinglish_scam,llm,False,0.12571008228764563
+"Apki LIC policy lapse hone wali h, penalty se bachne ke liye aaj raat tak 1400 bhar dein.",1,scam,hinglish_scam,llm,False,0.13887192834732984
+"Hello me army officer Rakesh bol rha hu, OLX pe jo bed daala hai vo final hai. Scanner bhej rha hu.",1,scam,hinglish_scam,llm,False,0.1403256717868697
+Dear user apko WFH job k liye select kiya gaya h. Har din 2 ghante youtube like krke 5000 kamaye.,1,scam,hinglish_scam,llm,False,0.1944919760527278
+Tari viman ni ticket cancel thai gai chhe. Refund mate aa link par click kar.,1,scam,hinglish_scam,llm,False,0.17586549107536684
+"Sir apka traffic challan 2000 rs ka pending hai, varna court se notice ayega http://echallan-parivahan.in",1,scam,hinglish_scam,llm,True,0.436437681460522
+Oye tera parcel aya si par address galat hai. Ethe address theek kar: http://indiapost-update.com,1,scam,hinglish_scam,llm,True,0.2814223239282546
+Jio 5G me upgrade krne ke liye free link pe click krein aur payein 50GB data ek saal k liye,1,scam,hinglish_scam,llm,False,0.23094463892254383
+"Bhai accident ho gya hai, mere paas purse nhi h, google pay karde kisi se kara rha hu",1,scam,hinglish_scam,llm,False,0.15761525822186656
+Tari PGVCL ni light bill baki chhe. Aaje raat 9 vage connection kapi nakhashe. Call kar.,1,scam,hinglish_scam,llm,False,0.13651337995640161
+Sade PSPCL de record mutabik twada bijli bill pending hai. Link te click karke pay karo.,1,scam,hinglish_scam,llm,False,0.20043434728141424
+Aapke naam pe ek international courier aaya hai jisme drugs the. CBI aapko arrest karegi.,1,scam,hinglish_scam,llm,False,0.230580117790156
+"Ghar bethe part time job krein. Pehle task ke liye 500 jama krein, hum 800 wapas denge.",1,scam,hinglish_scam,llm,False,0.13195857482506052
+Sir apka SBI net banking ka password expire ho gya hai. Change krne k liye apna pin batayein.,1,scam,hinglish_scam,llm,False,0.2638382492229855
+Aapka HDFC account XX1234 me Rs.5000 jama hue hain. UPI transaction safal raha.,0,legit,hinglish_alert,llm,False,0.23509079282474912
+"Namaste, aapka gas cylinder (Consumer no. 8923) book ho gaya hai. Delivery jald hi hogi.",0,legit,hinglish_alert,llm,False,0.2014623901051053
+"Dear grahak, aapke Airtel number par 299 ka recharge safaltapurvak ho gaya hai.",0,legit,hinglish_alert,llm,False,0.20545537579968615
+Aapki Swiggy order pickup ho chuki hai aur delivery partner raaste me hai. PIN: 9021.,0,legit,hinglish_alert,llm,False,0.24796040560558183
+Aapka ICICI credit card ka bill Rs 4500 generate hua hai. Antim tithi 12 tarikh hai.,0,legit,hinglish_alert,llm,False,0.17911345762165723
+Tata Play: Aapka connection 3 din me expire ho jayega. Recharge krein tv dekhne k liye.,0,legit,hinglish_alert,llm,False,0.23886360108228796
+Aapki train 12951 me ticket confirm ho gai h. Coach B3 Seat 22. Yatra shubh ho.,0,legit,hinglish_alert,llm,False,0.15163462525424373
+"Apka Zomato order deliver ho gya h. Khana kaisa laga, hume app par jarur batayein.",0,legit,hinglish_alert,llm,False,0.17018860925037815
+"Dear customer, apke FASTag wallet me 500 rupaye add ho gaye hain. Naya balance 550 hai.",0,legit,hinglish_alert,llm,False,0.17303945976776403
+Aapki appointment Dr. Mehra ke sath kal dopahar 4 baje confirm hai.,0,legit,hinglish_alert,llm,False,0.1845418704233192
+Uber: Apki ride ka kiran 320 rs hua h. Driver partner Rahul aapki location par pahuch raha h.,0,legit,hinglish_alert,llm,False,0.16207819150315067
+Aapka Myntra parcel out for delivery h. Hamara delivery boy aapse jald sampark karega.,0,legit,hinglish_alert,llm,False,0.3628622857819698
+Aapke SBI khaate se ATM cash withdrawal Rs.2000 safal raha.,0,legit,hinglish_alert,llm,False,0.1684690482790969
+Blinkit: Apka 12 items ka order pack ho gaya hai aur 10 minute me pahuchega.,0,legit,hinglish_alert,llm,False,0.2195526555569947
+Aapka BookMyShow ticket (PVR Andheri) book ho gaya hai. QR code scan karke entry lein.,0,legit,hinglish_alert,llm,False,0.22918466349657202
+Bhai kahan h tu? jaldi niche aaja mai wait kar rha hu society ke gate pe,0,legit,everyday_chat,llm,False,0.17300292472408715
+Yr kl office aana h kya? bahut aalas aa rha h socha wfh le lu,0,legit,everyday_chat,llm,False,0.13277924611786296
+"Mummy me thodi der me ghar aunga, dosto ke sath bahar khana kha rha hu",0,legit,everyday_chat,llm,False,0.2154959890237809
+Oye presentation ki slides taiyaar hain kya? meeting 11 baje shuru hogi,0,legit,everyday_chat,llm,False,0.23978409764717995
+"Kem cho? aaje sanje madie aapde tea post par, khub vaato karvi chhe",0,legit,everyday_chat,llm,False,0.10375161986883344
+"Praa ki haal chaal? Kade chakkr maar chandigarh, bhot time ho gya mile nu",0,legit,everyday_chat,llm,False,0.1389850277992235
+Happy diwali bhai! ghar par sabko meri taraf se shubhkamnaye dena,0,legit,everyday_chat,llm,False,0.17666431060067764
+"Tension mat le, exam clear ho jayega. syllabus kar liya h na pura?",0,legit,everyday_chat,llm,False,0.1438913822958313
+"Plz raste se aate time bread aur dudh lete aana, ghar me khatam ho gaya h",0,legit,everyday_chat,llm,False,0.1521411435986932
+Bhai match dekh rha h kya? kohli ne kya mast batting ki aaj maza aagya,0,legit,everyday_chat,llm,False,0.12316006637356744
+"Sorry yr mai tera call utha nhi paya, meeting me tha. thodi der me krta hu",0,legit,everyday_chat,llm,False,0.2467556624786272
+Aaja pubg khelega? squad online h sab tera wait kr rhe h,0,legit,everyday_chat,llm,False,0.14470493212877875
+Tu kal gym aayega ya chutti maar rha h? legs ka workout h kal,0,legit,everyday_chat,llm,False,0.2175048151112435
+"Su kare chhe? aaje aavne mari ghare, ek navu movie download karyu chhe",0,legit,everyday_chat,llm,False,0.1553116908408945
+Veere gaddi di service kara li tu? meri aali thodi problem de rhi h,0,legit,everyday_chat,llm,False,0.22179536780478548
+"Happy birthday yr! bhagwan tujhe bohot tarakki de, sham ko milte h party me",0,legit,everyday_chat,llm,False,0.35188196366650726
+"Bhai tere notes bhej de physics wale, mujhe assignment pura krna h jaldi",0,legit,everyday_chat,llm,False,0.21133602405002322
+"Ghar pahuch ke message kar dena bhai, barish bohot tez ho rhi h bahar",0,legit,everyday_chat,llm,False,0.2062632320663543
+Naya gaana suna kya arjit ka? repeat pe sun rha hu mai subah se,0,legit,everyday_chat,llm,False,0.08899500467404188
+"Tu aage nikal mai 10 minute me pahuchta hu, traffic jam me fasa hua hu",0,legit,everyday_chat,llm,False,0.20027546484472253
+Oye trip ka plan final h na weekend pe? goa chalte h maza aayega,0,legit,everyday_chat,llm,False,0.15793492060488973
+"Yaar ye naya boss bohot dimag kharab kar rha h, itna kaam de diya weekend par",0,legit,everyday_chat,llm,False,0.13401837948066697
+"Kal subah jaldi uthna h, 6 baje ki flight h meri delhi ke liye",0,legit,everyday_chat,llm,False,0.1529925582631022
+Tujhe pata h rohan aur priya ki shadi fix ho gai? december me h,0,legit,everyday_chat,llm,False,0.21442547145314128
+"Kaisa h bhai? bohot din se baat nhi hui, free hoke call kr mujhe",0,legit,everyday_chat,llm,False,0.12548065566714917
+Big Billion Days are live! Get up to 80% off on electronics. Shop now: https://flipkart.com/sale,1,promo,promo_link,llm,True,0.1968786372937837
+Your Amazon cart is waiting. Checkout now and get free delivery! Link: https://amazon.in/cart,1,promo,promo_link,llm,True,0.18251075300888697
+Exclusive 50% discount on flight bookings for you! Book via Cleartrip: https://cleartrip.com/offer,1,promo,promo_link,llm,True,0.2742016295994714
+Diwali Dhamaka! Buy 1 Get 1 free on all Myntra styles. Shop here: https://myntra.com/diwali,1,promo,promo_link,llm,True,0.21834766711725878
+Craving pizza? Use code DOM50 and get flat 50% off on Domino's app. Order: https://dominos.co.in/app,1,promo,promo_link,llm,True,0.33737403523080267
+Apply for SBI SimplyCLICK Credit Card and get Rs 500 Amazon voucher. Apply here: https://sbi.co.in/cc,1,promo,promo_link,llm,True,0.2183757297901504
+Invest in direct mutual funds with 0% commission on Coin by Zerodha. Start here: https://coin.zerodha.com,1,promo,promo_link,llm,True,0.21117345982568567
+Book your next movie on BookMyShow using ICICI card and get 1 ticket free! Link: https://bms.in/offer,1,promo,promo_link,llm,True,0.25733530553443185
+Get flat Rs 200 off on your first Zomato order. Download the app now: https://zomato.com/download,1,promo,promo_link,llm,True,0.2728275647431405
+Upgrade to JioFiber and get 1st month free + 14 OTT apps! Book connection: https://jio.com/fiber,1,promo,promo_link,llm,True,0.2780507133632526
+Unlock Tinder Gold at 50% off for the first month. Swipe right on your perfect match! https://tinder.com/gold,1,promo,promo_link,llm,True,0.19071953236161795
+"Flash Sale on Croma! iPhone 15 at just Rs 65,990. Limited stock. Buy now: https://croma.com/iphone",1,promo,promo_link,llm,True,0.22716726394732928
+Learn Python in 30 days! Join our upcoming cohort at just Rs 999. Enroll here: https://udemy.com/python,1,promo,promo_link,llm,True,0.13818296028767044
+Get instant personal loan up to 5 Lakhs in 2 mins from Navi App. Download: https://navi.com/loan,1,promo,promo_link,llm,True,0.31361250470709684
+Protect your car! Renew your insurance at up to 70% off via PolicyBazaar. Compare here: https://policybazaar.com/motor,1,promo,promo_link,llm,True,0.17275780729620016
+Ok bhai milte h,0,legit,very_short,llm,False,0.41395462108171005
+Done.,0,legit,very_short,llm,False,0.3340469324927815
+Pay tm kyc http://kyc.in,1,scam,very_short,llm,True,0.1825247747057701
+Loan approved! Click link,1,scam,very_short,llm,False,0.3192760841628489
+"Dear customer, we are writing to inform you about the recent updates to our Privacy Policy and Terms of Service, which will come into effect on the 30th of November. These changes reflect our ongoing commitment to protecting your personal data and ensuring compliance with the new digital data protection regulations. We encourage you to read the detailed document available on our official website. By continuing to use our services after this date, you acknowledge and accept these updated terms. Thank you for your continued trust in us.",0,legit,very_long,llm,False,0.33050496102422416
+"Urgent Notice from the Ministry of Telecommunications and the Cyber Crime Division of India: We have detected severe anomalies and multiple complaints regarding your Aadhaar-linked mobile numbers being used for international money laundering and harassment cases. As per the new digital safety guidelines, an FIR has been provisionally registered against your name. You must immediately connect with our verification officer by downloading the secure compliance apk from http://govt-cyber-verify.in/app.apk and transferring a refundable security deposit of Rs. 49,999 to the official RBI escrow account to suspend the arrest warrant. Failure to comply within 2 hours will result in your physical arrest and permanent blocking of all bank accounts associated with your PAN card.",1,scam,very_long,llm,True,0.23187786919939715
