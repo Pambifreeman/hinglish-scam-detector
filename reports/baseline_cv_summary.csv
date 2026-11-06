@@ -1,0 +1,7 @@
+,precision,precision,recall,recall,f1,f1,accuracy,accuracy
+,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,
+Majority class,0.414,0.232,0.8,0.447,0.546,0.305,0.51,0.02
+Naive Bayes (word counts),0.923,0.007,0.963,0.006,0.943,0.005,0.939,0.005
+TF-IDF chars + LogReg,0.959,0.005,0.969,0.01,0.964,0.006,0.963,0.007
+TF-IDF words + LogReg,0.949,0.005,0.962,0.007,0.956,0.004,0.954,0.005

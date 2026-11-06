@@ -1,0 +1,13 @@
+eval set,model,precision,recall,f1,accuracy
+public test (capped),Majority class,0.528,1.0,0.691,0.528
+public test (all rows),Majority class,0.399,1.0,0.571,0.399
+gold v1,Majority class,0.561,1.0,0.719,0.561
+public test (capped),Naive Bayes (word counts),0.911,0.963,0.936,0.931
+public test (all rows),Naive Bayes (word counts),0.587,0.967,0.73,0.715
+gold v1,Naive Bayes (word counts),0.624,0.978,0.762,0.656
+public test (capped),TF-IDF words + LogReg,0.932,0.958,0.945,0.941
+public test (all rows),TF-IDF words + LogReg,0.593,0.962,0.734,0.722
+gold v1,TF-IDF words + LogReg,0.644,0.891,0.748,0.663
+public test (capped),TF-IDF chars + LogReg,0.94,0.966,0.953,0.949
+public test (all rows),TF-IDF chars + LogReg,0.598,0.97,0.74,0.727
+gold v1,TF-IDF chars + LogReg,0.688,0.842,0.757,0.696
