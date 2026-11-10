@@ -1,0 +1,7 @@
+model,seed,best_epoch,val_ba,minutes
+HingBERT,42,3,0.976,1.9
+HingBERT,43,2,0.973,1.9
+HingBERT,44,3,0.975,1.9
+XLM-R base,42,3,0.972,3.0
+XLM-R base,43,2,0.969,2.8
+XLM-R base,44,3,0.972,2.8
