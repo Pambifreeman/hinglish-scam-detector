@@ -1,0 +1,7 @@
+eval set,model,precision,recall,f1,accuracy,false_alarm_rate,balanced_acc
+public test (capped),HingBERT (frozen) + LogReg,0.951,0.955,0.953,0.95,0.055,0.95
+public test (all rows),HingBERT (frozen) + LogReg,0.782,0.96,0.862,0.877,0.178,0.891
+gold v1,HingBERT (frozen) + LogReg,0.716,0.77,0.742,0.699,0.392,0.689
+public test (capped),XLM-R base (frozen) + LogReg,0.948,0.963,0.955,0.952,0.06,0.952
+public test (all rows),XLM-R base (frozen) + LogReg,0.783,0.967,0.866,0.88,0.178,0.895
+gold v1,XLM-R base (frozen) + LogReg,0.715,0.699,0.707,0.675,0.357,0.671
